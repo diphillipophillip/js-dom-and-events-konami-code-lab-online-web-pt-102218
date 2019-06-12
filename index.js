@@ -3,6 +3,6 @@ const body = document.body
 
 function init() {
   let index = 0 
-  
+  body.addEventListener
   
 }
